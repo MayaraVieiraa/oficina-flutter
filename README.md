@@ -116,14 +116,15 @@ Após configurar o ambiente:
 
     Explore o que são widgets, estados e o hot reload do Flutter.
 
-## 🧑‍💻 Tecnologias Utilizadas
+🧑‍💻 Tecnologias Utilizadas
 
-| 🛠️ Ferramenta | 💡 Função |
-|----------------|-----------|
-| [**Flutter**](https://flutter.dev/) | Framework para criação de apps multiplataforma |
-| [**Dart**](https://dart.dev/) | Linguagem de programação usada pelo Flutter |
-| [**Git**](https://git-scm.com/) | Controle de versão |
-| [**Visual Studio Code**](https://code.visualstudio.com/) | Editor de código recomendado |
+| Ferramenta                                           | Função                                         |
+| ---------------------------------------------------- | ---------------------------------------------- |
+| [Flutter](https://flutter.dev/)                      | Framework para criação de apps multiplataforma |
+| [Dart](https://dart.dev/)                            | Linguagem de programação usada pelo Flutter    |
+| [Git](https://git-scm.com/)                          | Controle de versão                             |
+| [Visual Studio Code](https://code.visualstudio.com/) | Editor de código recomendado                   |
+
 
 ---
 
